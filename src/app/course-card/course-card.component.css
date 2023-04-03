@@ -1,0 +1,9 @@
+img {
+  background-color: #0a5640;
+}
+
+.course-card {
+  margin: auto;
+  max-width: 40rem;
+  box-shadow: 5px 5px 10px #0a5640;
+}
